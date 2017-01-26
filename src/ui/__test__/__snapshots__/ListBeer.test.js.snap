@@ -1,0 +1,38 @@
+exports[`List beer features correctly render a list 1`] = `
+<div
+  className="panel panel-default"
+  id={null}>
+  <div
+    className="panel-heading">
+    <h4
+      className="panel-title"
+      role="presentation">
+      <a
+        aria-controls={undefined}
+        aria-expanded={true}
+        aria-selected={true}
+        className={null}
+        href={undefined}
+        onClick={[Function]}
+        role={undefined}>
+        Beer catalog - page undefined
+      </a>
+    </h4>
+  </div>
+  <div
+    aria-expanded={null}
+    aria-hidden={false}
+    className="panel-collapse collapse in"
+    id={undefined}
+    role={undefined}>
+    <div
+      className="panel-body">
+      <div
+        className="beer-tender-panel-inner">
+        <ul
+          className="list-group" />
+      </div>
+    </div>
+  </div>
+</div>
+`;

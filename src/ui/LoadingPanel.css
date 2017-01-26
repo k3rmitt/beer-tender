@@ -1,0 +1,28 @@
+.beer-tender-loading-panel{
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%;
+  height: 100%;
+
+}
+
+.beer-tender-loading-inner{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.beer-tender-loading-panel img{
+  animation: beer-spin infinite 800ms linear;
+  width:100px;
+  height:100px;
+}
+
+
+@keyframes beer-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
