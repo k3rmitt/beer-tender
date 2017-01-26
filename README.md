@@ -1,1 +1,1 @@
-## BeerTender by hbourzeix
+## BeerTender by kermit
